@@ -1,0 +1,23 @@
+{
+  "name": "bomberman",
+  "version": "1.0.0",
+  "description": "A simple bomberman clone using phaser.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4",
+    "phaser": "^2.4.6",
+    "socket.io": "^1.4.5"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-minify": "0.0.5",
+    "gulp-sass": "^2.2.0",
+    "gulp-sourcemaps": "^1.6.0"
+  }
+}
